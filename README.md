@@ -94,4 +94,41 @@ Use Case Diagrams are visual representations of the interactions between users (
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
+## Acceptance Criteria
+
+### Importance of Acceptance Criteria
+Acceptance Criteria (AC) are a set of conditions that a software product must satisfy to be accepted by a user, customer, or other stakeholders. They play a critical role in Requirement Analysis as they:
+
+- Provide clear, measurable goals for development teams.
+- Reduce misunderstandings between stakeholders and developers.
+- Serve as the basis for testing and validation.
+- Ensure that the delivered feature meets the intended requirements.
+
+Well-defined acceptance criteria help teams focus on what "done" looks like for a feature, avoiding scope creep and ambiguous expectations.
+
+### Example: Checkout Feature in a Booking Management System
+For a Checkout feature in a booking management system, the acceptance criteria could be defined as follows:
+
+1. **User Authentication**
+   - Users must be logged in to complete the checkout.
+   - If the user is not logged in, the system should prompt them to log in or register.
+
+2. **Booking Summary**
+   - The checkout page must display a summary of the selected booking items including date, time, quantity, and total price.
+
+3. **Payment Processing**
+   - Users must be able to select a payment method (Credit Card, PayPal, Mobile Payment).
+   - Payment processing should be secure and confirm transaction success before completing the booking.
+
+4. **Confirmation**
+   - After a successful payment, users must receive a confirmation message on the screen and a confirmation email with booking details.
+   - The system should update the booking status to "Confirmed" in the database.
+
+5. **Error Handling**
+   - If payment fails, users should be notified with an appropriate error message.
+   - Users must be able to retry payment without losing booking information.
+
+By defining these criteria clearly, the development and QA teams can ensure that the Checkout feature functions as expected and meets stakeholder expectations.
+
+
 
