@@ -38,3 +38,21 @@ Requirement Analysis is a vital phase in the Software Development Lifecycle (SDL
    Accurate requirements allow testers to create meaningful test cases and validate that the system behaves as expected.
 
 
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that ensure a comprehensive understanding of stakeholder needs. These activities include:
+
+- **Requirement Gathering:**  
+  Collecting information from stakeholders, users, and other sources to understand what the system must achieve.
+
+- **Requirement Elicitation:**  
+  Engaging stakeholders through interviews, surveys, workshops, and brainstorming sessions to uncover implicit needs and expectations.
+
+- **Requirement Documentation:**  
+  Recording the gathered requirements in a clear, structured format such as requirement specification documents, use cases, and user stories.
+
+- **Requirement Analysis and Modeling:**  
+  Refining and structuring the requirements to identify dependencies, priorities, and relationships. This often includes creating diagrams like use case diagrams or data flow diagrams.
+
+- **Requirement Validation:**  
+  Reviewing and confirming requirements with stakeholders to ensure accuracy, completeness, and feasibility before development begins.
